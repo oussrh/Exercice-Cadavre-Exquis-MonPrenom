@@ -1,2 +1,2 @@
 # Exercice-Cadavre-Exquis-MonPrenom
-Réaliser un Cadavre exquis avec GitHub
+le chat qui aboie
