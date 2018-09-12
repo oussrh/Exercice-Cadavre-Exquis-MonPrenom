@@ -13,3 +13,15 @@
 <p>Il adore les thon<p>
 <p>et jouer toute la journee<p>
 >>>>>>> eb218f47b6119d85c15ca9838713ef4aa1f52b7b
+
+Les Celtes ont migré en Europe de l'Ouest à partir de -2500, et se seraient établis en Gaule vers
+
+-1200, mais il faut attendre l'âge du fer (-800) pour pouvoir l'affirmer. La Gaule formait un 
+
+territoire qui longeait le Rhin jusqu'à la Méditerranée. Des années après l'invasion en -57 de la 
+
+Gaule par les légions romaines de Jules César, Auguste va la partager en trois provinces romaines, 
+
+dont celle de la Gaule belgique située la plus au nord de la Gaule, et qui borde le Rhin.
+
+
